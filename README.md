@@ -60,10 +60,10 @@ It provides a structured understanding of how Netflix curates its library to att
 
 
 ## 🔮 Future Work
-- 🧠 Use **machine learning models** to predict content type (Movie vs. TV Show).  
-- ⏱ Build a **time-series forecast** of Netflix’s growth by genre or country.  
-- 📌 Develop a **recommendation system prototype** using genres, ratings, and durations.    
-- 📱 Deploy results in a **Streamlit/Dash web app** for public use.  
+- Use **machine learning models** to predict content type (Movie vs. TV Show).  
+- Build a **time-series forecast** of Netflix’s growth by genre or country.  
+- Develop a **recommendation system prototype** using genres, ratings, and durations.    
+- Deploy results in a **Streamlit/Dash web app** for public use.  
 
 
 ## 👩‍💻 Author
